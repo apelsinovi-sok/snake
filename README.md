@@ -1,2 +1,2 @@
 # snake
-#ok
+Простая змейка на JavaScript
